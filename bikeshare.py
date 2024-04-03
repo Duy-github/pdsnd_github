@@ -7,6 +7,7 @@ import numpy as np
 xx = 1
 yy = 2
 zz = xx + yy
+qq = xx + yy +zz
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
